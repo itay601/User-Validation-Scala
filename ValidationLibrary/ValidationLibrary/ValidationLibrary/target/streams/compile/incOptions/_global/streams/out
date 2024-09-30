@@ -1,0 +1,65 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$none$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Invalid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Valid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ValidationResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIncludesDollarSign$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$or$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIncludesLettersNumbersOnly$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$ageBiggerThan18$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$usernameLengthBiggerThan8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$emailEndsWithIL$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$emailLengthBiggerThan10$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordLengthBiggerThan8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$and$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$all$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIsDifferentFromUsername$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$none$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Invalid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Valid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ValidationResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIncludesDollarSign$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$or$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIncludesLettersNumbersOnly$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$ageBiggerThan18$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$usernameLengthBiggerThan8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$emailEndsWithIL$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$emailLengthBiggerThan10$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordLengthBiggerThan8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$and$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$all$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIsDifferentFromUsername$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$none$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Invalid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Valid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ValidationResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIncludesDollarSign$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$or$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIncludesLettersNumbersOnly$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$ageBiggerThan18$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$usernameLengthBiggerThan8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$emailEndsWithIL$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$emailLengthBiggerThan10$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordLengthBiggerThan8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$and$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$all$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidation$$anonfun$passwordIsDifferentFromUsername$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/target/scala-2.12/classes.bak[0m

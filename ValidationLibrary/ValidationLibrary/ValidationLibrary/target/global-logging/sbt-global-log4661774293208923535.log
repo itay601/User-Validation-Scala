@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(267ce4f3-bdd9-46cd-b449-541c2b68e2ca), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating validationlibrary_2.12[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved validationlibrary_2.12 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating validationlibrary_2.12[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved validationlibrary_2.12 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of validationlibrary_2.12[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of validationlibrary_2.12[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 6 Scala sources to /mnt/c/MyProjects/ValidationLibrary/ValidationLibrary/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.20. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 14.01s.[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 26 s, completed Sep 14, 2024, 9:09:58 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

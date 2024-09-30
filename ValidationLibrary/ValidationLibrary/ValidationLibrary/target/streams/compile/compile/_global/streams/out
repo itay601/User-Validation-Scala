@@ -1,0 +1,40 @@
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:13:34: value emailEndsWithIL is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val result1 = UserValidation.emailEndsWithIL.and(UserValidation.emailLengthBiggerThan10).apply(user1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:13:69: value emailLengthBiggerThan10 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val result1 = UserValidation.emailEndsWithIL.and(UserValidation.emailLengthBiggerThan10).apply(user1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:17:34: value emailEndsWithIL is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val result2 = UserValidation.emailEndsWithIL.or(UserValidation.emailLengthBiggerThan10).apply(user1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:17:68: value emailLengthBiggerThan10 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val result2 = UserValidation.emailEndsWithIL.or(UserValidation.emailLengthBiggerThan10).apply(user1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:22:22: value usernameLengthBiggerThan8 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m      UserValidation.usernameLengthBiggerThan8,[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:23:22: value passwordLengthBiggerThan8 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m      UserValidation.passwordLengthBiggerThan8,[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:24:22: value ageBiggerThan18 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m      UserValidation.ageBiggerThan18[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:30:50: value usernameLengthBiggerThan8 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val emptyUsernameValidation = UserValidation.usernameLengthBiggerThan8.apply(user2)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:35:50: value passwordLengthBiggerThan8 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val shortPasswordValidation = UserValidation.passwordLengthBiggerThan8.apply(user3)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:40:56: value passwordIncludesLettersNumbersOnly is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val invalidCharPasswordValidation = UserValidation.passwordIncludesLettersNumbersOnly.apply(user4)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:45:40: value ageBiggerThan18 is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val ageValidation = UserValidation.ageBiggerThan18.apply(user5)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:50:59: value passwordIsDifferentFromUsername is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val passwordSameAsUsernameValidation = UserValidation.passwordIsDifferentFromUsername.apply(user6)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/itay/Downloads/ValidationLibrary/ValidationLibrary/ValidationLibrary/src/main/scala/il/ac/hit/validation/Demo.scala:55:42: value emailEndsWithIL is not a member of object il.ac.hit.validation.UserValidation[0m
+[0m[[0m[31merror[0m] [0m[0m    val emailValidation = UserValidation.emailEndsWithIL.apply(user7)[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m13 errors found[0m
